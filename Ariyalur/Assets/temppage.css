@@ -1,0 +1,51 @@
+body{
+
+  align-items: center;
+  text-align: center;
+  width: 600px;
+  position: relative;
+  margin: auto;
+  background: #E4F6F9;
+}
+
+h2 {
+  text-decoration: underline;
+  font-family: cursive;
+  color: darkorange;
+}
+img{
+  border: none;
+  border-radius: 5px;
+}
+
+h3 {
+  color: brown;
+  font-family: cursive;
+  text-align: left;
+  font-style: oblique;
+  text-decoration: inherit;
+}
+
+hr{
+  border-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 15%;
+  margin-top: 20px;
+}
+
+.tab_st {
+  font-family: 'Zilla Slab', serif;
+  font-size: 20px;
+  color: #40B00D;
+}
+.tab_mid{
+  color: #82D975;
+
+}
+.tab_end{
+  font-family: 'Zilla Slab', serif;
+  color: #8B00FF;
+  font-size: 20px;
+}

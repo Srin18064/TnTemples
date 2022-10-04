@@ -1,0 +1,42 @@
+body{
+  font-family: cursive;
+}
+
+div#vertical_list{
+  line-style: none;
+  min-width: 1000px;
+  padding-top: 20px;
+  display: inline;
+}
+
+div#horizotal-list li{
+  display: inline;
+  border: none;
+  border-radius: 10px;
+}
+
+.uppersec{
+  display: inline;
+}
+
+.district_list{
+  display: inline;
+}
+
+.nav-bar{
+    width: auto;
+    height: 60px;
+    background-color: #E4F;
+    text-align: right;
+}
+ul#nav_list{
+  line-style: none;
+  min-width: 1000px;
+  padding-top: 20px;
+  text-align: right;
+}
+
+ul#nav_list li{
+  display: inline;
+  align-items: flex-end;
+}
