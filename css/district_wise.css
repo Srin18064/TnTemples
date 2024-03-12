@@ -15,28 +15,38 @@ div#horizotal-list li{
   border-radius: 10px;
 }
 
-.uppersec{
-  display: inline;
+
+ul#district_list{
+  padding: 10px;
+  
 }
 
-.district_list{
+ul#district_list li{
   display: inline;
+  padding-left: 5%;
+}
+
+ul#disticts{
+  display: list-item;
 }
 
 .nav-bar{
-    width: auto;
-    height: 60px;
-    background-color: #E4F;
-    text-align: right;
+  width: auto;
+  height: 60px;
+  -ms-text-size-adjust: auto;
+  background-color: #E4F;
+  text-align: right;
 }
 ul#nav_list{
-  line-style: none;
-  min-width: 1000px;
-  padding-top: 20px;
-  text-align: right;
+/* min-width: 1000px; */
+padding-top: 20px;
+background-color: rgb(204, 247, 255);
+font-size: 30px;
+text-align: right;
 }
 
 ul#nav_list li{
-  display: inline;
-  align-items: flex-end;
+display: inline;
+padding-right: 1%;
+align-items: flex-end;
 }

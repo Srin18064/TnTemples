@@ -49,3 +49,26 @@ hr{
   color: #8B00FF;
   font-size: 20px;
 }
+
+/ navigation bar
+
+.nav-bar{
+  width: auto;
+  height: 60px;
+  -ms-text-size-adjust: auto;
+  background-color: #E4F;
+  text-align: right;
+}
+ul#nav_list{
+/* min-width: 1000px; */
+padding-top: 20px;
+background-color: rgb(204, 247, 255);
+font-size: 30px;
+text-align: right;
+}
+
+ul#nav_list li{
+display: inline;
+padding-right: 1%;
+align-items: flex-end;
+}
