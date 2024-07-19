@@ -50,7 +50,13 @@ hr{
   font-size: 20px;
 }
 
-/ navigation bar
+.head_1{
+  background-color: rgba(128, 255, 0, 0.459);
+  border-radius: 10px;
+  width: fit-content;
+  padding-left: 10px;
+  padding-right: 10px;
+}
 
 .nav-bar{
   width: auto;
